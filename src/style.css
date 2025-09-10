@@ -98,7 +98,7 @@ margin-top: 50px;
   position: absolute;
   top: 233px;
   left: 32px;
-  background-image: url('./images/bg-triangle.svg');
+  background-image: url('/public/images/bg-triangle.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 182px;
